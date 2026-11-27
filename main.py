@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 import re
 
 SOURCE_URL = "https://hk.on.cc/hk/news/index.html"
-OUTPUT_FILE = "feed.xml"
+OUTPUT_FILE = "feed-v2.xml"
 MAX_ITEMS = 40
 
 HEADERS = {
